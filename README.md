@@ -1,2 +1,2 @@
-# scilab_workplace
+# scilab_workspace
 Scilab Assignments
